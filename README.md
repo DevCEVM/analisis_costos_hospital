@@ -1,7 +1,7 @@
 # analisis_costos_hospital
 
 Proyecto para portafolio de análisis de costos que simula el control de costos de un hospital ya que trabajé en uno.
-Compara costosreales contra presupuesto con filtros por departamento o categoría, calcula el costo por atención y detecta desviaciones.
+Compara costos reales contra presupuesto con filtros por departamento o categoría, calcula el costo por atención y detecta desviaciones.
 
 ## Los datos mostrados son SINTÉTICOS generados con python por lo que no encontrarás aquí información real del hospital donde trabajé.
 
