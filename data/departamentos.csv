@@ -1,0 +1,9 @@
+departamento_id,nombre,tipo
+1,Urgencias,Clínico
+2,Hospitalización,Clínico
+3,Quirófano,Clínico
+4,Laboratorio,Apoyo
+5,Imagenología,Apoyo
+6,Farmacia,Apoyo
+7,Consulta externa,Clínico
+8,Administración,Administrativo

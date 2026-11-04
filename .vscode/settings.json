@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "autopep8.interpreter": [
+        "C:\\Users\\auditoria04.HRSJ\\AppData\\Local\\Programs\\Python\\Python314\\python.exe"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    }
+}
