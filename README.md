@@ -23,5 +23,6 @@ Python · pandas · MySQL · Streamlit · Git
 
 ## Conclusiones
 
-**aún no llegamos a ese paso**
-
+- Mantenimiento en Hospitalización se desvió entre 25% y 55% del presupuesto de junio a diciembre de 2024, con tendencia creciente y un - sobrecosto acumulado cercano a $315,000.
+- Se detectaron dos picos puntuales: material de curación en Quirófano (jul 2023) y medicamentos en Farmacia (mar 2024).
+- El presupuesto no considera la estacionalidad invernal, lo que genera desviaciones del 20% en diciembre y enero en varios departamentos.
