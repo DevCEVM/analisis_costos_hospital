@@ -93,8 +93,8 @@ costos = pd.DataFrame(
 # Casos escondidos para que tu análisis tenga "hallazgos" que contar.
 
 
-def inyectar(mes, dep, cat, factor):
-    m = (costos.mes == pd.Timestamp(mes).date()) & (
+def inyectar(fecha_mes, dep, cat, factor):
+    m = (costos.mes == pd.Timestamp(fecha_mes).date()) & (
         costos.departamento_id == dep) & (costos.categoria_id == cat)
     costos.loc[m, "monto_real"] *= factor
 
